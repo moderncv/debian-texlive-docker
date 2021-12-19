@@ -2,7 +2,7 @@
 #
 # SPDX-License-Identifier: CC0-1.0
 
-FROM debian:testing
+FROM debian:testing-slim
 RUN apt-get update -y && \
     apt-get full-upgrade --autoremove -y && \
     apt-get install texlive-full -y && \
