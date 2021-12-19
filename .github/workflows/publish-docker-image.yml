@@ -1,3 +1,7 @@
+# SPDX-FileCopyrightText: 2021 moderncv maintainers <github.com/moderncv>
+#
+# SPDX-License-Identifier: CC0-1.0
+
 name: Publish Docker images
 
 on:
