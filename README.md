@@ -4,7 +4,7 @@ SPDX-FileCopyrightText: 2021 moderncv maintainers <github.com/moderncv>
 SPDX-License-Identifier: CC0-1.0
 -->
 
-# debian-texlive-docker [![Publish Docker images](https://github.com/moderncv/debian-texlive-docker/actions/workflows/publish-docker-image.yml/badge.svg)](https://github.com/moderncv/debian-texlive-docker/actions/workflows/publish-docker-image.yml)
+# debian-texlive-docker [![Publish Docker images](https://github.com/moderncv/debian-texlive-docker/actions/workflows/publish-docker-image.yml/badge.svg)](https://github.com/moderncv/debian-texlive-docker/actions/workflows/publish-docker-image.yml) [![REUSE status](https://api.reuse.software/badge/github.com/moderncv/moderncv)](https://api.reuse.software/info/github.com/moderncv/moderncv)
 
 This repository contains a `Dockerfile` to build a debian-based Docker image with TeXLive installed. It uses Debian Testing with the `texlive-full` package.
 
